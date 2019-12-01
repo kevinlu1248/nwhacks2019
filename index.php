@@ -30,7 +30,7 @@
                 <li class="nav-item">
                     <a class="nav-link" href="#">Contact Us</a>
                 </li>
-                <li class="nav-item dropdown">
+                <!-- <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Dropdown
                     </a>
@@ -40,7 +40,7 @@
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="#">Something else here</a>
                     </div>
-                </li>
+                </li> -->
             </ul>
             <form class="form-inline my-2 my-lg-0">
                 <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
@@ -56,19 +56,13 @@
             </div>
             <div class="card-body">
                 <!-- <span style="background-color: black; display: flex;"></span> -->
-                <h2 style="
-                    width: 100%; 
-                    text-align: left; 
-                    border-bottom: 1px solid #000; 
-                    line-height: 0.1em;
-                    margin: 10px 0 20px;">
-                    <i class="fas fa-play" style="background:#fff; 
-    padding:0 10px;"></i>
+                <h2 style="width: 100%; text-align: center;">
+                    <i class="fas fa-play" style=""></i>
                 </h2>
-                <br><br>
+                <br>
                 <!-- <h5 class="card-title"></h5> -->
                 <p class="card-text">This is my jazz inspired guitar solo. Feel free to use it in your tracks. You can also let me know if there is someting I can improve on.</p>
-                <a href="#" class="btn btn-primary">Check it out!</a>
+                <a href="music.php" class="btn btn-primary">Check it out!</a>
             </div>
             <div class="card-footer">
                 Jonathon Smith
@@ -80,19 +74,13 @@
             </div>
             <div class="card-body">
                 <!-- <span style="background-color: black; display: flex;"></span> -->
-                <h2 style="
-                    width: 100%; 
-                    text-align: left; 
-                    border-bottom: 1px solid #000; 
-                    line-height: 0.1em;
-                    margin: 10px 0 20px;">
-                    <i class="fas fa-play" style="background:#fff; 
-    padding:0 10px;"></i>
+                <h2 style="width: 100%; text-align: center;">
+                    <i class="fas fa-play" style=""></i>
                 </h2>
-                <br><br>
+                <br>
                 <!-- <h5 class="card-title"></h5> -->
                 <p class="card-text">This is my jazz inspired guitar solo. Feel free to use it in your tracks. You can also let me know if there is someting I can improve on.</p>
-                <a href="#" class="btn btn-primary">Check it out!</a>
+                <a href="music.php" class="btn btn-primary">Check it out!</a>
             </div>
             <div class="card-footer">
                 Jonathon Smith
@@ -104,19 +92,13 @@
             </div>
             <div class="card-body">
                 <!-- <span style="background-color: black; display: flex;"></span> -->
-                <h2 style="
-                    width: 100%; 
-                    text-align: left; 
-                    border-bottom: 1px solid #000; 
-                    line-height: 0.1em;
-                    margin: 10px 0 20px;">
-                    <i class="fas fa-play" style="background:#fff; 
-    padding:0 10px;"></i>
+                <h2 style="width: 100%; text-align: center;">
+                    <i class="fas fa-play" style=""></i>
                 </h2>
-                <br><br>
+                <br>
                 <!-- <h5 class="card-title"></h5> -->
                 <p class="card-text">This is my jazz inspired guitar solo. Feel free to use it in your tracks. You can also let me know if there is someting I can improve on.</p>
-                <a href="#" class="btn btn-primary">Check it out!</a>
+                <a href="music.php" class="btn btn-primary">Check it out!</a>
             </div>
             <div class="card-footer">
                 Jonathon Smith
@@ -131,19 +113,13 @@
             </div>
             <div class="card-body">
                 <!-- <span style="background-color: black; display: flex;"></span> -->
-                <h2 style="
-                    width: 100%; 
-                    text-align: left; 
-                    border-bottom: 1px solid #000; 
-                    line-height: 0.1em;
-                    margin: 10px 0 20px;">
-                    <i class="fas fa-play" style="background:#fff; 
-    padding:0 10px;"></i>
+                <h2 style="width: 100%; text-align: center;">
+                    <i class="fas fa-play" style=""></i>
                 </h2>
-                <br><br>
+                <br>
                 <!-- <h5 class="card-title"></h5> -->
                 <p class="card-text">This is my jazz inspired guitar solo. Feel free to use it in your tracks. You can also let me know if there is someting I can improve on.</p>
-                <a href="#" class="btn btn-primary">Check it out!</a>
+                <a href="music.php" class="btn btn-primary">Check it out!</a>
             </div>
             <div class="card-footer">
                 Jonathon Smith
@@ -155,19 +131,13 @@
             </div>
             <div class="card-body">
                 <!-- <span style="background-color: black; display: flex;"></span> -->
-                <h2 style="
-                    width: 100%; 
-                    text-align: left; 
-                    border-bottom: 1px solid #000; 
-                    line-height: 0.1em;
-                    margin: 10px 0 20px;">
-                    <i class="fas fa-play" style="background:#fff; 
-    padding:0 10px;"></i>
+                <h2 style="width: 100%; text-align: center;">
+                    <i class="fas fa-play" style=""></i>
                 </h2>
-                <br><br>
+                <br>
                 <!-- <h5 class="card-title"></h5> -->
                 <p class="card-text">This is my jazz inspired guitar solo. Feel free to use it in your tracks. You can also let me know if there is someting I can improve on.</p>
-                <a href="#" class="btn btn-primary">Check it out!</a>
+                <a href="music.php" class="btn btn-primary">Check it out!</a>
             </div>
             <div class="card-footer">
                 Jonathon Smith
@@ -179,19 +149,13 @@
             </div>
             <div class="card-body">
                 <!-- <span style="background-color: black; display: flex;"></span> -->
-                <h2 style="
-                    width: 100%; 
-                    text-align: left; 
-                    border-bottom: 1px solid #000; 
-                    line-height: 0.1em;
-                    margin: 10px 0 20px;">
-                    <i class="fas fa-play" style="background:#fff; 
-    padding:0 10px;"></i>
+                <h2 style="width: 100%; text-align: center;">
+                    <i class="fas fa-play" style=""></i>
                 </h2>
-                <br><br>
+                <br>
                 <!-- <h5 class="card-title"></h5> -->
                 <p class="card-text">This is my jazz inspired guitar solo. Feel free to use it in your tracks. You can also let me know if there is someting I can improve on.</p>
-                <a href="#" class="btn btn-primary">Check it out!</a>
+                <a href="music.php" class="btn btn-primary">Check it out!</a>
             </div>
             <div class="card-footer">
                 Jonathon Smith
