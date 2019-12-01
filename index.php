@@ -10,161 +10,170 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">Tune Portal</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">Tune Portal</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
 
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
-                    <a class="nav-link" href="#">Home<span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Collaboration</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Database</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Contact Us</a>
-                </li>
-                <!-- <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Dropdown
-                    </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="#">Action</a>
-                        <a class="dropdown-item" href="#">Another action</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">Something else here</a>
-                    </div>
-                </li> -->
-            </ul>
-            <form class="form-inline my-2 my-lg-0">
-                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-            </form>
-        </div>
-    </nav>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+                <a class="nav-link" href="#">Home<span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Collaboration</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Database</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Contact Us</a>
+            </li>
+            <!-- <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Dropdown
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="#">Action</a>
+                    <a class="dropdown-item" href="#">Another action</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="#">Something else here</a>
+                </div>
+            </li> -->
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+    </div>
+</nav>
 
-    <div class="d-flex justify-content-around my-5">
-        <div class="card" style="width: 20em;">
-            <div class="card-header">
-                Song Title
-            </div>
-            <div class="card-body">
-                <!-- <span style="background-color: black; display: flex;"></span> -->
-                <h2 style="width: 100%; text-align: center;">
-                    <i class="fas fa-play" style=""></i>
-                </h2>
-                <br>
-                <!-- <h5 class="card-title"></h5> -->
-                <p class="card-text">This is my jazz inspired guitar solo. Feel free to use it in your tracks. You can also let me know if there is someting I can improve on.</p>
-                <a href="music.php" class="btn btn-primary">Check it out!</a>
-            </div>
-            <div class="card-footer">
-                Jonathon Smith
-            </div>
+<div class="d-flex justify-content-around my-5">
+    <div class="card" style="width: 20em;">
+        <div class="card-header">
+            Song Title
         </div>
-        <div class="card" style="width: 20em;">
-            <div class="card-header">
-                Song Title
-            </div>
-            <div class="card-body">
-                <!-- <span style="background-color: black; display: flex;"></span> -->
-                <h2 style="width: 100%; text-align: center;">
-                    <i class="fas fa-play" style=""></i>
-                </h2>
-                <br>
-                <!-- <h5 class="card-title"></h5> -->
-                <p class="card-text">This is my jazz inspired guitar solo. Feel free to use it in your tracks. You can also let me know if there is someting I can improve on.</p>
-                <a href="music.php" class="btn btn-primary">Check it out!</a>
-            </div>
-            <div class="card-footer">
-                Jonathon Smith
-            </div>
+        <div class="card-body">
+            <!-- <span style="background-color: black; display: flex;"></span> -->
+            <h2 style="width: 100%; text-align: center;">
+                <i class="fas fa-play" style=""></i>
+            </h2>
+            <br>
+            <!-- <h5 class="card-title"></h5> -->
+            <p class="card-text">This is my jazz inspired guitar solo. Feel free to use it in your tracks. You can also let me know if there is someting I can improve on.</p>
+            <a href="music.php" class="btn btn-primary">Check it out!</a>
         </div>
-        <div class="card" style="width: 20em;">
-            <div class="card-header">
-                Song Title
-            </div>
-            <div class="card-body">
-                <!-- <span style="background-color: black; display: flex;"></span> -->
-                <h2 style="width: 100%; text-align: center;">
-                    <i class="fas fa-play" style=""></i>
-                </h2>
-                <br>
-                <!-- <h5 class="card-title"></h5> -->
-                <p class="card-text">This is my jazz inspired guitar solo. Feel free to use it in your tracks. You can also let me know if there is someting I can improve on.</p>
-                <a href="music.php" class="btn btn-primary">Check it out!</a>
-            </div>
-            <div class="card-footer">
-                Jonathon Smith
-            </div>
+        <div class="card-footer">
+            Jonathon Smith
         </div>
     </div>
-
-    <div class="d-flex justify-content-around my-5">
-        <div class="card" style="width: 20em;">
-            <div class="card-header">
-                Song Title
-            </div>
-            <div class="card-body">
-                <!-- <span style="background-color: black; display: flex;"></span> -->
-                <h2 style="width: 100%; text-align: center;">
-                    <i class="fas fa-play" style=""></i>
-                </h2>
-                <br>
-                <!-- <h5 class="card-title"></h5> -->
-                <p class="card-text">This is my jazz inspired guitar solo. Feel free to use it in your tracks. You can also let me know if there is someting I can improve on.</p>
-                <a href="music.php" class="btn btn-primary">Check it out!</a>
-            </div>
-            <div class="card-footer">
-                Jonathon Smith
-            </div>
+    <div class="card" style="width: 20em;">
+        <div class="card-header">
+            Song Title
         </div>
-        <div class="card" style="width: 20em;">
-            <div class="card-header">
-                Song Title
-            </div>
-            <div class="card-body">
-                <!-- <span style="background-color: black; display: flex;"></span> -->
-                <h2 style="width: 100%; text-align: center;">
-                    <i class="fas fa-play" style=""></i>
-                </h2>
-                <br>
-                <!-- <h5 class="card-title"></h5> -->
-                <p class="card-text">This is my jazz inspired guitar solo. Feel free to use it in your tracks. You can also let me know if there is someting I can improve on.</p>
-                <a href="music.php" class="btn btn-primary">Check it out!</a>
-            </div>
-            <div class="card-footer">
-                Jonathon Smith
-            </div>
+        <div class="card-body">
+            <!-- <span style="background-color: black; display: flex;"></span> -->
+            <h2 style="width: 100%; text-align: center;">
+                <i class="fas fa-play" style=""></i>
+            </h2>
+            <br>
+            <!-- <h5 class="card-title"></h5> -->
+            <p class="card-text">This is my jazz inspired guitar solo. Feel free to use it in your tracks. You can also let me know if there is someting I can improve on.</p>
+            <a href="music.php" class="btn btn-primary">Check it out!</a>
         </div>
-        <div class="card" style="width: 20em;">
-            <div class="card-header">
-                Song Title
-            </div>
-            <div class="card-body">
-                <!-- <span style="background-color: black; display: flex;"></span> -->
-                <h2 style="width: 100%; text-align: center;">
-                    <i class="fas fa-play" style=""></i>
-                </h2>
-                <br>
-                <!-- <h5 class="card-title"></h5> -->
-                <p class="card-text">This is my jazz inspired guitar solo. Feel free to use it in your tracks. You can also let me know if there is someting I can improve on.</p>
-                <a href="music.php" class="btn btn-primary">Check it out!</a>
-            </div>
-            <div class="card-footer">
-                Jonathon Smith
-            </div>
+        <div class="card-footer">
+            Jonathon Smith
         </div>
     </div>
+    <div class="card" style="width: 20em;">
+        <div class="card-header">
+            Song Title
+        </div>
+        <div class="card-body">
+            <!-- <span style="background-color: black; display: flex;"></span> -->
+            <h2 style="width: 100%; text-align: center;">
+                <i class="fas fa-play" style=""></i>
+            </h2>
+            <br>
+            <!-- <h5 class="card-title"></h5> -->
+            <p class="card-text">This is my jazz inspired guitar solo. Feel free to use it in your tracks. You can also let me know if there is someting I can improve on.</p>
+            <a href="music.php" class="btn btn-primary">Check it out!</a>
+        </div>
+        <div class="card-footer">
+            Jonathon Smith
+        </div>
+    </div>
+</div>
 
-    <!-- <div class="container">
-        <div class="row">
+<div class="d-flex justify-content-around my-5">
+    <div class="card" style="width: 20em;">
+        <div class="card-header">
+            Song Title
+        </div>
+        <div class="card-body">
+            <!-- <span style="background-color: black; display: flex;"></span> -->
+            <h2 style="width: 100%; text-align: center;">
+                <i class="fas fa-play" style=""></i>
+            </h2>
+            <br>
+            <!-- <h5 class="card-title"></h5> -->
+            <p class="card-text">This is my jazz inspired guitar solo. Feel free to use it in your tracks. You can also let me know if there is someting I can improve on.</p>
+            <a href="music.php" class="btn btn-primary">Check it out!</a>
+        </div>
+        <div class="card-footer">
+            Jonathon Smith
+        </div>
+    </div>
+    <div class="card" style="width: 20em;">
+        <div class="card-header">
+            Song Title
+        </div>
+        <div class="card-body">
+            <!-- <span style="background-color: black; display: flex;"></span> -->
+            <h2 style="width: 100%; text-align: center;">
+                <i class="fas fa-play" style=""></i>
+            </h2>
+            <br>
+            <!-- <h5 class="card-title"></h5> -->
+            <p class="card-text">This is my jazz inspired guitar solo. Feel free to use it in your tracks. You can also let me know if there is someting I can improve on.</p>
+            <a href="music.php" class="btn btn-primary">Check it out!</a>
+        </div>
+        <div class="card-footer">
+            Jonathon Smith
+        </div>
+    </div>
+    <div class="card" style="width: 20em;">
+        <div class="card-header">
+            Song Title
+        </div>
+        <div class="card-body">
+            <!-- <span style="background-color: black; display: flex;"></span> -->
+            <h2 style="width: 100%; text-align: center;">
+                <i class="fas fa-play" style=""></i>
+            </h2>
+            <br>
+            <!-- <h5 class="card-title"></h5> -->
+            <p class="card-text">This is my jazz inspired guitar solo. Feel free to use it in your tracks. You can also let me know if there is someting I can improve on.</p>
+            <a href="music.php" class="btn btn-primary">Check it out!</a>
+        </div>
+        <div class="card-footer">
+            Jonathon Smith
+        </div>
+    </div>
+</div>
+
+<!-- <div class="container">
+    <div class="row">
+        <div class="col-sm">
+            <div class="card" style="width: 14em;">
+                <img src="..." class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
             <div class="col-sm">
                 <div class="card" style="width: 14em;">
                     <img src="..." class="card-img-top" alt="...">
@@ -174,29 +183,32 @@
                         <a href="#" class="btn btn-primary">Go somewhere</a>
                     </div>
                 </div>
-                <div class="col-sm">
-                    <div class="card" style="width: 14em;">
-                        <img src="..." class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn btn-primary">Go somewhere</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm">
-                    <div class="card" style="width: 14em;">
-                        <img src="..." class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn btn-primary">Go somewhere</a>
-                        </div>
+            </div>
+            <div class="col-sm">
+                <div class="card" style="width: 14em;">
+                    <img src="..." class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
                     </div>
                 </div>
             </div>
-        </div> -->
+        </div>
+    </div> -->
 
+
+<form action="upload.php" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="exampleInputEmail1">Song Name</label>
+        <input type="text" name="SongName" class="form-control" placeholder="Enter Song name">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputPassword1">Upload</label>
+        <input name="fileToUpload" id="fileToUpload" type="file" class="form-control">
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
 
 </body>
 
