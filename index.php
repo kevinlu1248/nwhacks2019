@@ -1,3 +1,5 @@
+
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -54,6 +56,16 @@
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             <a href="#" class="btn btn-primary">Go somewhere</a>
         </div>
+
+
+        <form action="upload.php" method="post" enctype="multipart/form-data">
+            Select image to upload:
+            <input type="text" name="SongName">
+            <input type="file" name="fileToUpload" id="fileToUpload">
+            <input type="submit" value="Upload Soundtrack" name="submit">
+        </form>
+
+
 </body>
 
 </html>
