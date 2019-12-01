@@ -196,15 +196,19 @@
             </div>
         </div>
     </div> -->
+
+
 <form action="upload.php" method="post" enctype="multipart/form-data">
-    Select image to upload:
-    <input type="text" name="SongName">
-    <input type="file" name="fileToUpload" id="fileToUpload">
-    <input type="submit" value="Upload Soundtrack" name="submit">
+    <div class="form-group">
+        <label for="exampleInputEmail1">Song Name</label>
+        <input type="text" name="SongName" class="form-control" placeholder="Enter Song name">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputPassword1">Upload</label>
+        <input name="fileToUpload" id="fileToUpload" type="file" class="form-control">
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
 </form>
-
-
-
 
 </body>
 
