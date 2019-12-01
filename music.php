@@ -50,28 +50,49 @@
     </nav>
 
     <div class="d-flex justify-content-around my-5">
-
         <div class="card" style="width: 50em;">
             <div class="card-body">
                 <!-- <h5 class="card-title"></h5> -->
                 <strong class="display-3">Rock and Roll</strong>
                 <p class="display-4">Jonathon's rock guitar solo</p>
-                <i class="fas fa-play"></i> -----------------------------------------------------------------------------------------------------------------------------
+                <i class="fas fa-play"></i> ---------------------------------------------------------------------------------
+                <br><br>
+                <p class="card-text">
+                Description:
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                <br><br>
+                <a href="#">Download</a>
+                </p>
             </div>
         </div>
-
         <div class="card" style="width: 20em;">
             <div class="card-header">
                 Jonathon Smith
             </div>
             <div class="card-body">
                 <!-- <h5 class="card-title"></h5> -->
-                <p class="card-text">This is my jazz inspired guitar solo. Feel free to use it in your tracks. You can also let me know if there is someting I can improve on.</p>
+                <p class="card-text">Description:
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 <a href="music.php" class="btn btn-primary">Check it out!</a>
             </div>
         </div>
-
     </div>
+
+    <div class="card" style="width: 100em;">
+            <div class="card-body">
+                <!-- <h5 class="card-title"></h5> -->
+                <strong class="display-3">Rock and Roll</strong>
+                <p class="display-4">Jonathon's rock guitar solo</p>
+                <i class="fas fa-play"></i> ---------------------------------------------------------------------------------
+                <br><br>
+                <p class="card-text">
+                Description:
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                <br><br>
+                <a href="#">Download</a>
+                </p>
+            </div>
+        </div>
 
 </body>
 
